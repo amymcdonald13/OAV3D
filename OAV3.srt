@@ -4,12 +4,12 @@ Illo, te hago yo la cena otro día,
 ¿vale?
 
 2
-00:00:05,405 --> 00:00:07,441
-- ¿Te la habrás traído a casa?
+00:00:05,405 --> 00:00:07,474
+- ¿No te la habrás traído a casa, no?
 - Sí.
 
 3
-00:00:07,508 --> 00:00:11,011
+00:00:07,541 --> 00:00:11,011
 ¿Tú estás loco? ¡Qué puede ser
 de la ETA, o de algún comando!
 
